@@ -43,7 +43,7 @@
 **1. IRCTC Booking System Simulation** — Ongoing
 - Developing a booking application with user authentication and search functionality.
 - Working with relational database records for users and scheduling data.
-- **Tech:** HTML5, CSS3, JavaScript, MySQL, Git
+- **Tech:** HTML5, CSS3, JavaScript, Git
 
 **2. Cloud Computing Chatbot**
 - Built an NLP chatbot using the Dialogflow API to answer cloud-related queries.
