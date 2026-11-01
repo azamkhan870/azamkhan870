@@ -23,7 +23,7 @@
 *June 2024 – July 2024 | Jamshedpur, India*
 - Worked in a five-member team on corporate web applications.
 - Built a landing page integrated with a database.
-- Worked on SQL queries and data integrity.
+- Contributed to application data handling and data integrity.
 
 **Tata Motors — Frontend Intern**  
 *July 2024 – August 2024 | Jamshedpur, India*
@@ -34,7 +34,7 @@
 
 - **Languages:** Java, JavaScript
 - **Frontend:** HTML5, CSS3, React.js
-- **Databases:** MySQL, MongoDB
+- **Databases:** MongoDB
 - **Tools:** Git, GitHub
 - **Additional:** Node.js, Dialogflow API, REST APIs
 
@@ -42,7 +42,7 @@
 
 **1. IRCTC Booking System Simulation** — Ongoing
 - Developing a booking application with user authentication and search functionality.
-- Working with relational database records for users and scheduling data.
+- Working on application data for user profiles and scheduling.
 - **Tech:** HTML5, CSS3, JavaScript, Git
 
 **2. Cloud Computing Chatbot**
